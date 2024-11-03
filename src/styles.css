@@ -11,8 +11,7 @@ body{
     min-height: 100vh;
     margin: 0;
     font-family: 'Inconsolata', monospace;
-    background: linear-gradient(#5b0fff 0%, white 100%) no-repeat;
-
+    background: linear-gradient(#9c2424 0%, white 100%) no-repeat;
 }
 
 a{
